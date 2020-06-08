@@ -1,6 +1,6 @@
 # jupyterlab_apod
 
-![Github Actions Status](https://github.com/chetan8300/jupyterlab_apod/workflows/Build/badge.svg)
+<!-- ![Github Actions Status](https://github.com/chetan8300/jupyterlab_apod/workflows/Build/badge.svg) -->
 
 Show a random NASA Astronomy Picture of the Day in a JupyterLab panel
 
@@ -13,7 +13,7 @@ Show a random NASA Astronomy Picture of the Day in a JupyterLab panel
 ## Install
 
 ```bash
-jupyter labextension install jupyterlab-apod
+jupyter labextension install @chetangodhani/jupyterlab-apod
 ```
 
 ## Contributing
@@ -53,5 +53,5 @@ jupyter lab --watch
 
 ```bash
 
-jupyter labextension uninstall jupyterlab-apod
+jupyter labextension uninstall @chetangodhani/jupyterlab-apod
 ```
